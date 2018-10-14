@@ -1,8 +1,8 @@
 # Mathematical-Table
 Java program for  creating mathematical table
 
-import java. util.Scanner;
 class Table
+
 {
 	public static void main(String[] args) 
 	{
