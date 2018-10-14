@@ -1,5 +1,6 @@
 # Mathematical-Table
 Java program for  creating mathematical table
+
 import java. util.Scanner;
 class Table
 {
@@ -15,4 +16,3 @@ class Table
 			System.out.println(n+"*"+i+"="+num);
 		}
 	}
-}
